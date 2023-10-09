@@ -1,1 +1,1 @@
-Tableau de bord interactif sur les stattions de ski
+Tableau de bord interactif sur les stations de ski
